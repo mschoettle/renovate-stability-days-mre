@@ -1,5 +1,5 @@
 {
-  "minimumReleaseAge": "7 days",
+  "minimumReleaseAge": "5 days",
   "internalChecksFilter": "strict",
   "lockFileMaintenance": {
     "enabled": true,
